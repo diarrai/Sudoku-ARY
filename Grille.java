@@ -34,7 +34,7 @@ public interface Grille {
     public void setValue(int x, int y, char value) throws IllegalArgumentException;
 
     /**
-     * Recupere une valeur de la grille
+     * Recupere une valeur de la grille de sudoku
      *
      * @param x position x dans la grille
      * @param y position y dans la grille
